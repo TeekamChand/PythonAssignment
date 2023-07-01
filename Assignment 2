@@ -1,3 +1,4 @@
+Write a Python function that takes in a string and returns the string with all the vowels removed.
 string = "PrepInsta"
 
 vowels = ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U']
